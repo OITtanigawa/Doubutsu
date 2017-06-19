@@ -13,3 +13,4 @@ class KomaList {
     komaArray[8] = new Niwatori("niwatori", 0, 0, 0, false);
     komaArray[9] = new Niwatori("niwatori", 5, 0, 1, false);
   }
+}
